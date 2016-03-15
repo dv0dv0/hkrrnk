@@ -27,3 +27,11 @@ int main(void) {
 
     return 0;
 }
+
+/*
+ if diff of x > 0, go that number left
+ if diff of x < 0, go that number right
+ if diff of y > 0, go that number down
+ if diff of y < 0, go that number up
+     */
+
